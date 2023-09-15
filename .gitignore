@@ -1,0 +1,48 @@
+# Android Studio
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+
+# Mac File Store
+.DS_Store
+
+# Generated Files
+build/
+bin/
+gen/
+
+# Built Application Files
+*.apk
+*.ap_
+*.aab
+
+# Java Class Files
+*.class
+
+# Dex VM Files
+*.dex
+
+# Gradle
+.gradle/
+
+# Lint
+*/lint.xml
+
+# Local Configuration
+local.properties
+
+# Log Files
+.log
+
+# Android Studio Captures Folder
+captures/
+
+# Fastlane Files
+fastlane/README.md
+fastlane/report.xml
+
+# Signing Files
+signing/
